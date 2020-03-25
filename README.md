@@ -11,8 +11,8 @@ link to video: https://drive.google.com/file/d/1HRAyIs8sO5fhaAlBXFAtHF00uDbzvBdU
 
 <p align="center">
   <br></br>
-<img src="Images/Pathfinding.png">
-  <br></br>
 <img src="Images/AStartSearch.png">
+  <br></br>
+<img src="Images/Pathfinding.png">
   
 </p>
