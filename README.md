@@ -11,8 +11,8 @@ link to video: https://drive.google.com/file/d/1HRAyIs8sO5fhaAlBXFAtHF00uDbzvBdU
 
 <p align="center">
   <br></br>
-<img src="Images/Generations.png">
+<img src="Images/Pathfinding.png">
   <br></br>
-<img src="Images/Voronoi_Implementation.png">
+<img src="Images/AStartSearch.png">
   
 </p>
